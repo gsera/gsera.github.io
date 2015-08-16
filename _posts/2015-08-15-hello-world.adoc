@@ -2,6 +2,8 @@
 
 :hp-tags: Blogging
 
+:published_at: 2015-08-15
+
 if i can use markdown, then i'll be happy
 
 ## hello again

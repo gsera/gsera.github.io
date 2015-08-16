@@ -1,0 +1,20 @@
+# Hello world, Claire
+
+:hp-tags: robots
+
+:published_at: 2015-08-16
+
+image::http://cdn1.bigcommerce.com/server2600/4r4weyxd/products/435/images/2350/mBot_pink_1000__85822.1430293438.388.388.jpg[]
+
+Bofie and I spent the afternoon making Claire.  I promised I would buy her a robot, and I ended up funding a kickstarter campaign:
+
+https://www.kickstarter.com/projects/1818505613/mbot-49-educational-robot-for-each-kid
+
+It took several months to finally get the mBot, although I think she had forgotten about it (or at least didn't mention it) until this afternoon.
+
+She was very good at constructing her new baby.  The instructions were decent, although not as good as Ikea.  Which screw to use was a bit confusing at times.  We managed to put it together after a couple of hours (with breaks in between).
+
+I'm pretty happy that she was quite into making this, and the best was that we were able to find a CR-2025 battery sitting around to make the thing operate after we put the final pieces together.
+
+I hope that she'll eventually play around with the mblock software too, which is supposed to be just like Scratch, with modifications for Arduino hardware elements and sensors.
+
